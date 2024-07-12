@@ -14,5 +14,3 @@ Computer Science - FACAPE - Brazil<br>Actually studying Java, C and MySQL
 
 ---
 [![](https://visitcount.itsvg.in/api?id=gabs-hub&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in )😉 -->
