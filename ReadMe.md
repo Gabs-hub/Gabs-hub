@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Science - FACAPE - Brasil<br>No momento, estou estudando Java, Python e MySQL
+Computer Science - FACAPE - Brasil<br>Estudando Java, Python e MySQL
 
 
 ## 🌐 Socials:
