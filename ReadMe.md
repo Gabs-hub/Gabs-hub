@@ -1,5 +1,5 @@
 # 📝 About Me:
-Computer Science - FACAPE - Brasil<br>Estudando para me tornar um dev back-end Java🍃
+Ciência da Computação - FACAPE - Brasil<br>Estudando para me tornar um dev back-end Java🍃
 
 
 ### 🌐 Socials:
