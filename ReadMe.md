@@ -1,5 +1,5 @@
 # 📝 About Me:
-Ciência da Computação - FACAPE - Brasil<br>Estudando para me tornar um dev back-end Java🍃
+Ciência da Computação - FACAPE - Brasil<br>Estudando para me tornar um pentester🍃
 
 
 ### 🌐 Socials:
@@ -17,6 +17,7 @@ Ciência da Computação - FACAPE - Brasil<br>Estudando para me tornar um dev ba
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
+ 
 </p>
 
 # 📊 GitHub Stats:
